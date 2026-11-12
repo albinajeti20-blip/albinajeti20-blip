@@ -1,9 +1,10 @@
 ### Hi, I'm Albin 👋
 
-**Data Scientist** · M.Sc. Computer Science (Data Science & AI) · Audit Senior Consultant at Deloitte
+**Audit Senior Consultant at Deloitte** · M.Sc. student in Computer Science (Data Science & AI)
 
-I combine a **financial-mathematics** background with **machine learning, NLP and big-data engineering**.
-At work I build analytics that auditors act on. Outside work I build pipelines that turn raw web text into insight.
+My background is in **financial mathematics** and **data science**.
+I currently work as an auditor, where data analytics is part of my daily work.
+In my projects I use machine learning, NLP and big-data tools to turn data into useful insights.
 
 #### 🔭 Featured work
 
